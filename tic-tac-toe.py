@@ -33,7 +33,7 @@ def game():
             count += 1
         else:
             print()
-            print("That place is already filled. Try another")
+            print("That place is already filled. Try another position.")
             continue
         
         if count >= 5:
